@@ -1,3 +1,3 @@
-module github.com/razor3538/migrator/cmd/gormigrator
+module github.com/razor3538/migrator
 
 go 1.19
